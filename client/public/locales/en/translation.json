@@ -1,0 +1,18 @@
+{
+    "statistics": "Statistics",
+    "date": "Date",
+    "surname": "Surname",
+    "firstname": "Firstname",
+    "middlename": "Middlename",
+    "action": "Action",
+    "timesheetnumber": "Time Sheet Number",
+    "countactions": "Count actions",
+    "jobdegree": "Job degree",
+    "worksite": "Worksite",
+    "subdivision": "Subdivision",
+    "chooseperiod": "Choose period:",
+    "inputTimeSheet": "Input time sheet number:",
+    "show": "Show",
+    "error": "Error",
+    "checkInputData": "Check the entered data"
+}

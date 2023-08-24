@@ -1,0 +1,18 @@
+{
+    "statistics": "Статистика",
+    "date": "Дата",
+    "surname": "Фамилия",
+    "firstname": "Имя",
+    "middlename": "Отчество",
+    "action": "Действие",
+    "timesheetnumber": "Таб. номер",
+    "countactions": "Количество вх/вых",
+    "jobdegree": "Занимаемая должность",
+    "worksite": "Цех",
+    "subdivision": "Подразделение",
+    "chooseperiod": "Выберите период:",
+    "inputTimeSheet": "Введите табельный номер:",
+    "show": "Показать",
+    "error": "Ошибка",
+    "checkInputData": "Проверьте введённые данные"
+}
